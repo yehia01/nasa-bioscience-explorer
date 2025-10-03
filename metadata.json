@@ -1,0 +1,5 @@
+{
+  "name": "NASA Bioscience Explorer",
+  "description": "A dynamic dashboard that leverages AI to summarize and explore NASA bioscience publications, helping users discover experimental impacts, results, and knowledge gaps in space biology research.",
+  "requestFramePermissions": []
+}
